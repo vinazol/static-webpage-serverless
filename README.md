@@ -25,7 +25,7 @@ The condition is that the entire project should be done in a serverless architec
 - Basic knowledge of HTML, CSS, JavaScript
 
 ## Task Details
-1. Launching Lab Environment
+1. Login to AWS Console
 2. Creating a DynamoDB table
 3. Creating a image storing S3 bucket and adding bucket policy
 4. Creating a S3 bucket to store your web page content
