@@ -1,5 +1,5 @@
 # static-webpage-serverless
-Static Feedback Page with Serverless Architecture
+Static Feedback Page with Serverless Architecture on AWS
 ## Project Details
 This project walks you through the steps to configure a static web application which allows you to submit a message by attaching an image. This response will be collected in the DynamoDB table and the corresponding image will be stored in the S3 Bucket.
 In this project infrastructure, you will use only the serverless services to deploy the web page.
