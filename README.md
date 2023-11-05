@@ -26,16 +26,15 @@ The condition is that the entire project should be done in a serverless architec
 
 ## Task Details
 1. Login to AWS Console
-2. Creating a DynamoDB table
-3. Creating a image storing S3 bucket and adding bucket policy
-4. Creating a S3 bucket to store your web page content
+2. Create a DynamoDB table
+3. Create an image storing S3 bucket and add bucket policy
+4. Create a S3 bucket to store your web page content
 5. Host the static webpage
-6. Creating a Lambda function
-7. Creating a Rest API
-8. Creating a Resource and Method for the API
-9. Testing the API
-10. Enabling the CORS and Deploying the API
+6. Create a Lambda function
+7. Create a Rest API
+8. Create a Resource and Method for the API
+9. Test the API
+10. Enable the CORS and Deploy the API
 11. Modify the index.html page to add the API Gateway endpoint
-12. Testing the Web Page
-13. Validation of the Lab
-14. Clean up Resources
+12. Test the Web Page
+13. Clean up Resources 
